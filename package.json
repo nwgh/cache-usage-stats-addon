@@ -1,0 +1,9 @@
+{
+    "name": "cache_usage",
+    "license": "MPL 2.0",
+    "author": "Nick Hurley <hurley@todesschaf.org>",
+    "version": "0.1",
+    "fullName": "Cache Usage Statistics Collector",
+    "id": "cacheUsage@mozilla.todesschaf.org",
+    "description": "Collects information on how your cache is used during a browsing session."
+}
