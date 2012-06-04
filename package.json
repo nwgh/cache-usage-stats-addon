@@ -5,5 +5,5 @@
     "version": "0.1",
     "fullName": "Cache Usage Statistics Collector",
     "id": "cacheUsage@mozilla.todesschaf.org",
-    "description": "Collects information on how your cache is used during a browsing session."
+    "description": "Collects information on how your cache is used during a browsing session.\nOutput files can be found in FIREFOXPROFILE/org.todesschaf.mozilla.cacheUsage/*.json (a link to FIREFOXPROFILE can be found in about:support).\nIf you wish to share your output, please do so in a comment at http://todesschaf.org/posts/2012/06/04/cache-usage-and-you.html"
 }
