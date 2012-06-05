@@ -15,7 +15,8 @@ No identifiable information is ever persisted to disk, this just saves entry
 counts and byte counts in a json file. The results of the session are stored
 in:
 
-FIREFOXPROFILE/org.todesschaf.mozilla.cacheUsage/YYYY-MM-DD-hh:mm:ss.json
+FIREFOXPROFILE/org.todesschaf.mozilla.cacheUsage/YYYY\_MM\_DD\_hh\_mm\_ss.json
+A shortcut to your FIREFOXPROFILE is located on the about:support page.
 
 This extension *will* make your startup and shutdown times slower, no doubt
 about it. How bad it makes things depends on the size of your disk cache. It

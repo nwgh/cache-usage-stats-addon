@@ -2,6 +2,7 @@
     "name": "cache_usage",
     "license": "MPL 2.0",
     "author": "Nick Hurley <hurley@todesschaf.org>",
+    "contributors": ["Nils Maier"],
     "version": "0.1",
     "fullName": "Cache Usage Statistics Collector",
     "id": "cacheUsage@mozilla.todesschaf.org",
