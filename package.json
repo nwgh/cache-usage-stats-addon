@@ -3,8 +3,8 @@
     "license": "MPL 2.0",
     "author": "Nick Hurley <hurley@todesschaf.org>",
     "contributors": ["Nils Maier"],
-    "version": "0.3",
+    "version": "0.4",
     "fullName": "Cache Usage Statistics Collector",
     "id": "cacheUsage@mozilla.todesschaf.org",
-    "description": "Collects information on how your cache is used during a browsing session."
+    "description": "Currently does nothing (disabled)"
 }
